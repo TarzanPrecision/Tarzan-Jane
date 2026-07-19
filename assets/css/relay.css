@@ -1,0 +1,18 @@
+:root {
+    --bg: #061120;
+    --panel: #0b1e35;
+    --panel-hover: #123050;
+
+    --accent: #20d4c8;
+    --gold: #d6b56f;
+
+    --text: #f5f7fb;
+    --muted: #9aa8bd;
+
+    --heart: #ff5c7c;
+    --diamond: #ff8a4c;
+    --club: #2ecc71;
+    --spade: #e5e7eb;
+
+    --border: rgba(255,255,255,0.08);
+}
